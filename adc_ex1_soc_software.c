@@ -76,7 +76,7 @@ uint16_t myADC0Result0;
 uint16_t myADC0Result1;
 uint16_t myADC1Result0;
 uint16_t myADC1Result1;
-
+//adc sample
 //
 // Main
 //
